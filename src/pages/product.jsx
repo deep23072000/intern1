@@ -43,6 +43,7 @@ const style1 = {
 }
     return(
         <>
+        ecfhvh
         <div style={style1}>
           {
             obj.map(pr=>(<div key={pr.id} style={style}>
