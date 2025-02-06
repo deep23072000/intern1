@@ -1,0 +1,14 @@
+in we need react-router-dom for jumping one page to another page
+
+command for installing react-router-dom
+npm install react-router-dom
+
+now we need to create a links in navabr component
+
+now we need to creact a routing in app.jsx 
+
+condition:-
+number of link == number of routes
+the number pages or components we use in routing and links it should be created
+
+
