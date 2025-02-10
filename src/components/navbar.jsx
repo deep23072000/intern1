@@ -8,6 +8,9 @@ const Nav1 = ()=>{
            <Link to="/services"> Services </Link>
            <Link to="/product"> Product </Link>
            <Link to="/contact"> Contact </Link>
+           <Link to="/signup"> Signup </Link>
+           <Link to="/login"> Signup </Link>
+
         </>
     )
 }
